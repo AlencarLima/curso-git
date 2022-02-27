@@ -48,6 +48,8 @@ namespace projeto_teste
             {
                 Console.WriteLine(obj);
             }
+            Console.WriteLine("Fim do programa.");
+
         }
     }
 }
